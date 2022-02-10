@@ -1,36 +1,35 @@
 
-You can use the [editor on GitHub](https://github.com/Kodzhesyan/kodzhesian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Юридична адреса:
+Україна, 37601, Полтавська обл., місто Миргород, вулиця Багачанська, 106
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Фактична адреса:
+61002, Харків, вул. Мироносицька, 44
 
-### Markdown
+ІПН: 2970508736
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Банківські реквізити
 
-```markdown
-Syntax highlighted code block
+АТ КБ "ПРИВАТБАНК"
+UA243052990000026004050021663
+МФО: 305299
+Валюта: UAH
 
-# Header 1
-## Header 2
-### Header 3
+Тел: +380990644438 (Viber, Telegram, WhatsApp)
+email: roman.kodzhesyan@gmail.com
 
-- Bulleted
-- List
+Сервіс підписання документів:
+https://vchasno.ua/
 
-1. Numbered
-2. List
+## Види діяльності:
 
-**Bold** and _Italic_ and `Code` text
+46.46 Оптова торгівля фармацевтичними товарами;
+47.74 Роздрібна торгівля медичними й ортопедичними товарами в
+спеціалізованих магазинах;
+47.91 Роздрібна торгівля, що здійснюється фірмами поштового замовлення або
+через мережу Інтернет;
+47.99 Інші види роздрібної торгівлі поза магазинами
 
-[Link](url) and ![Image](src)
-```
+## Дата та номер запису в Єдиному державному реєстрі юридичних осіб, фізичних
+осіб-підприємців та громадських формувань:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kodzhesyan/kodzhesian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+02.08.2021, 2010350000000024715
