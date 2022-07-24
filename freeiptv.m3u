@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== Обновлён: 01.07.2022 === smarttvnews.ru ===
-https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
 #EXTINF:-1,VIP Megahit
 #EXTGRP:Кино
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
